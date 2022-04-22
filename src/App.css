@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.child{
+  background-color: mistyrose;
+  color: brown;
+  margin: 20px;
+  padding: 20px;
+  border: 3px solid rebeccapurple;
+  border-radius: 20px;
+}
+
